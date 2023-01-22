@@ -7,3 +7,4 @@
 [Sum of Elements in array](https://github.com/IrfanKpm/RecordCPP/blob/main/sumarr.cpp)<br>
 [Index of element:Leanear search](https://github.com/IrfanKpm/RecordCPP/blob/main/linear.cpp)<br>
 [Length of string without using strlen](https://github.com/IrfanKpm/RecordCPP/blob/main/len.cpp)<br>
+[Sum of sqr of first n](https://github.com/IrfanKpm/RecordCPP/blob/main/sumsqrn.cpp)<br>
