@@ -8,3 +8,4 @@
 [Index of element:Leanear search](https://github.com/IrfanKpm/RecordCPP/blob/main/linear.cpp)<br>
 [Length of string without using strlen](https://github.com/IrfanKpm/RecordCPP/blob/main/len.cpp)<br>
 [Sum of sqr of first n](https://github.com/IrfanKpm/RecordCPP/blob/main/sumsqrn.cpp)<br>
+[Binary of Int](https://github.com/IrfanKpm/RecordCPP/blob/main/binar.cpp)<br>
