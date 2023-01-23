@@ -4,7 +4,7 @@ using namespace std;
 int main(){
     char str[1000];
     cout<<"Enter String :: ";
-    gets(str);
+    cin.getline(str,1000);
     int length=0;
     while (str[length] != '\0'){
 		length++;
